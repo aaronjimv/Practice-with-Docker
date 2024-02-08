@@ -14,5 +14,5 @@ It also exposes the service on port 5000 to access application information.
 
 **Run with:**
 
-`docker compose up -d --build` 
-And then check the `localhost:5000`
+- `docker compose up -d --build`
+- And then check the `localhost:5000`
