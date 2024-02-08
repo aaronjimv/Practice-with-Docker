@@ -12,5 +12,5 @@ The information will be exposed to a service on port 80 in order to access the i
 
 **Run with:**
 
-`docker compose up -d --build` 
-And then check the `localhost`
+- `docker compose up -d --build`
+- And then check the `localhost`
